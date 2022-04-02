@@ -15,4 +15,4 @@ Integrantes:
 
 * Para que la aplicación comience a funcionar, ejecuta el script: <pre> npm run start </pre> 
 
-* Por último paso, en el navegador escribís [localhost:3003/api/](http://localhost:3003/api/)
+* Por último paso, en el navegador [localhost:3003/api/](http://localhost:3003/api/)
